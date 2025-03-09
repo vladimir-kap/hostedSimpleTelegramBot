@@ -1,4 +1,4 @@
-#!riceBot.py
+import secrets.py
 import logging
 from dataclasses import dataclass
 
