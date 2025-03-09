@@ -1,5 +1,7 @@
 # hostedSimpleTelegramBot
 
+this is just a small demo. You can try this bot on telegram: @ricewaterBot
+
 On this repo uploaded simple telegram bot that calculate how much water you need to cook specific value of rice. Hosted on timeweb server.
 What i learned: <strong>hosting telegram bot to remote system and configure it to execute on startup.</strong>
 
