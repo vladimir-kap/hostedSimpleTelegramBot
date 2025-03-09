@@ -80,7 +80,7 @@ async def button(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     )
 
 def main() -> None:
-    application = ApplicationBuilder().token("7598679860:AAEGHZzqAykdIhIBolJhyOJS_VoPpXSks2E").build()
+    application = ApplicationBuilder().token("token_api_tg").build()
 
     application.add_handler(CommandHandler("start", start))
     application.add_handler(CallbackQueryHandler(button))
